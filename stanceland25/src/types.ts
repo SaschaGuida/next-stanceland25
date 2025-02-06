@@ -4,3 +4,4 @@ export interface PageProps {
   };
   searchParams: {};
 }
+ 
